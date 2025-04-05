@@ -10,3 +10,6 @@ console.log(numbers[2]);
 
 const capital = 'Bangladesh';
 console.log(capital.length);
+console.log(capital[2]);
+capital[5] = 'o';
+console.log(capital);
