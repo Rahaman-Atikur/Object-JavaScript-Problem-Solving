@@ -11,12 +11,12 @@ const student = {
     }
 };
 */
-const student ={
-    name:'Hamim Sakib',
+const student = {
+    name: 'Hamim Sakib',
     id: 4344,
-    physics:{
-        subject:'Mathmatics',
-        author:'Shajahan Ali',
+    physics: {
+        subject: 'Mathmatics',
+        author: 'Shajahan Ali',
         marks: 30
     }
 };
