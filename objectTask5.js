@@ -27,5 +27,5 @@ let myObject = {
 }
 
 for (let val in myObject) {
-    console.log('key'+' ' + ':' +' ' + val +' '+ '|'+' '+ typeof(val));
+    console.log('key'+' ' + ':' +' ' + val +' '+ '|'+' '+ typeof(myObject[val]));
 }
