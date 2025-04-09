@@ -13,3 +13,15 @@ console.log(capital.length);
 console.log(capital[2]);
 capital[5] = 'o';
 console.log(capital);
+
+
+let stringOne = 'Bangladesh';
+let stringTwo = 'Love';
+  if(stringOne===stringTwo){
+    console.log("Yes they are same");
+  }
+  else{
+    console.log("Positive attack");
+  }
+  
+  
