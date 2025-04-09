@@ -11,3 +11,7 @@ console.log(friends);
 
 const realFriends = ['Rahim','Karim','Jashim','Nadim'];
 console.log(realFriends.join('-'));
+
+let firstString = 'Atikur';
+let secondString = 'Shuvo';
+console.log(firstString.concat(secondString));
