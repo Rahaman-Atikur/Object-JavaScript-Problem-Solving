@@ -17,6 +17,10 @@ console.log(capital);
 
 let stringOne = 'Bangladesh';
 let stringTwo = 'Love';
+console.log(stringOne.toUpperCase());
+console.log(stringTwo.toLowerCase());
+
+
   if(stringOne===stringTwo){
     console.log("Yes they are same");
   }
@@ -24,4 +28,9 @@ let stringTwo = 'Love';
     console.log("Positive attack");
   }
   
+
+  let sOne = 'water';
+  let sTwo = '  water  ';
+  console.log(sTwo.trimStart());
+
   
